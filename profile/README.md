@@ -8,9 +8,6 @@ The work centres on complete reference builds. Projects are developed end to end
 
 ### Links
 
-More projects and publications  
-https://currenari.github.io
-
 Main site  
 https://currenari.com
 
