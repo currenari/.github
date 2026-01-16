@@ -21,6 +21,7 @@ https://www.amazon.com/author/currenari
 **Spectrum One**  
 Open source and open hardware ESP32 WiFi RSSI activity indicator.  
 Documented from breadboard prototype through to assembled PCB and firmware.  
+OSHWA certified open hardware (UK000086).  
 
 Repository  
 https://github.com/currenari/spectrum-one
