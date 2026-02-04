@@ -1,27 +1,22 @@
-## Currenari
+# Currenari Lab
 
-Currenari, also referred to as Currenari Lab, is an independent electronics lab focused on designing, building, and documenting embedded electronic systems.
+Independent electronics lab.
 
-The work centres on complete reference builds. Projects are developed end to end, from early prototyping through to finished hardware and firmware, and are published once they reach a stable working state.
+- Hardware
+- Firmware
+- Ghost Themes
+- Whatever else sparks interest
 
 ---
 
 ### Links
-
-Main site  
-https://currenari.com
-
-Published books  
-https://www.amazon.com/author/currenari
+[currenari.com](https://currenari.com) 
 
 ---
 
 ### Projects
 
 **Spectrum One**  
-Open source and open hardware ESP32 WiFi RSSI activity indicator.  
-Documented from breadboard prototype through to assembled PCB and firmware.  
-OSHWA certified open hardware (UK000086).  
-
-Repository  
-https://github.com/currenari/spectrum-one
+ESP32 WiFi RSSI activity indicator. Open-source hardware and firmware.  
+OSHWA certified (UK000086).  
+[Repository](https://github.com/currenari/spectrum-one)
