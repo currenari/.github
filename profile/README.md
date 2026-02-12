@@ -1,24 +1,20 @@
 # Currenari Lab
 
-Currenari Lab is an independent technical lab focused on **electronics, embedded systems, and technical writing**.
+Currenari Lab is an independent technical lab focused on electronics, embedded systems, and technical publishing.
 
-Work hosted here includes small and mid-scale electronics projects, open-hardware designs, firmware, and supporting tooling. Projects range from focused experiments and reference circuits to complete systems, all documented as they are built.
+Work includes open-hardware designs, firmware, embedded development, and structured technical documentation. Projects range from focused experimental builds to complete systems, documented as they are developed.
 
-The Lab also publishes **technical articles and long-form documentation** covering electronics, computing, and related technologies. Writing includes technical articles, reference material, and project documentation.
-
-In addition, the Lab maintains open-source Ghost themes and publishing workflows used to support its own technical publishing and project documentation.
-
-There is no fixed roadmap. Repositories reflect active work at a given time. Licensing and maturity are defined per project.
+There is no fixed roadmap. Repositories reflect active work. Licensing and maturity are defined per project.
 
 ---
 
-## Areas of work
+## Areas of Work
 
-- Small and mid-scale electronics projects and open-hardware designs  
+- Open-hardware electronics projects  
 - Firmware and embedded systems  
-- Technical articles and long-form technical documentation  
-- Ghost themes and publishing workflows  
-- Supporting experiments and side projects  
+- Technical articles and long-form documentation  
+- Ghost themes and publishing systems  
+- Experimental builds and supporting tools  
 
 ---
 
@@ -26,15 +22,13 @@ There is no fixed roadmap. Repositories reflect active work at a given time. Lic
 
 ### Nightdriver
 
-Ghost theme for technical writing, documentation, and project-driven sites.
-
-Designed for long-form content, structured publishing, and sites that evolve over time.  
-The theme uses all **20 available Ghost custom settings**, exposing layout and visual configuration through Ghost Admin. No build step required.
+Ghost theme for technical writing and structured publishing.
 
 - Three display modes  
-- Uses the full Ghost custom settings limit (20)  
-- Built for readability and predictable behavior  
-- Released under the Apache 2.0 license  
+- Uses all 20 Ghost custom settings  
+- Snipcart integration  
+- Structured templates  
+- Apache 2.0 license  
 
 Repository:  
 https://github.com/currenari/nightdriver-ghost-theme
@@ -45,18 +39,15 @@ https://github.com/currenari/nightdriver-ghost-theme
 
 ESP32-based WiFi RSSI activity monitor.
 
-Open-hardware reference design for visualising and comparing nearby WiFi activity.  
-Not a calibrated RF measurement device.
-
 - OSHWA certified: UK000086  
 - Schematics, PCB files, and firmware included  
-- Hardware and firmware released under open licences  
+- Released under open licences  
 
 Repository:  
 https://github.com/currenari/spectrum-one
 
 ---
 
-## Links
+## Site
 
 https://currenari.com
