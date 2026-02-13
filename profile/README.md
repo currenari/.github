@@ -1,53 +1,35 @@
 # Currenari Lab
 
-Currenari Lab is an independent technical lab focused on electronics, embedded systems, and technical publishing.
+Electronics, embedded firmware, and technical publishing. One-person lab based in the UK.
 
-Work includes open-hardware designs, firmware, embedded development, and structured technical documentation. Projects range from focused experimental builds to complete systems, documented as they are developed.
-
-There is no fixed roadmap. Repositories reflect active work. Licensing and maturity are defined per project.
-
----
-
-## Areas of Work
-
-- Open-hardware electronics projects  
-- Firmware and embedded systems  
-- Technical articles and long-form documentation  
-- Ghost themes and publishing systems  
-- Experimental builds and supporting tools  
-
----
-
-## Projects
-
-### Nightdriver
-
-Ghost theme for technical writing and structured publishing.
-
-- Three display modes  
-- Uses all 20 Ghost custom settings  
-- Snipcart integration  
-- Structured templates  
-- Apache 2.0 license  
-
-Repository:  
-https://github.com/currenari/nightdriver-ghost-theme
+I design open hardware, write the firmware, document the build process, and publish the results — schematics, source, Gerbers, the lot. If I ship it, you get the files.
 
 ---
 
 ### Spectrum One
 
-ESP32-based WiFi RSSI activity monitor.
+<img src="img/spectrum_one_1600.jpg" alt="Spectrum One" width="600">
 
-- OSHWA certified: UK000086  
-- Schematics, PCB files, and firmware included  
-- Released under open licences  
+A compact WiFi activity monitor built on ESP32. Scans nearby wireless signals and displays them live on a 16×2 LCD and 10-segment LED bar. One button. No app. No cloud.
 
-Repository:  
-https://github.com/currenari/spectrum-one
+OSHWA certified open hardware — [UK000086](https://certification.oshwa.org/uk000086.html).
+
+Includes KiCad schematics, PCB layout, Gerbers, ESP-IDF firmware source, and pre-built binaries. The accompanying book — covering the full build from breadboard to certified PCB — is a [free download](https://currenari.com/spectrum-one/).
+
+→ [currenari/spectrum-one](https://github.com/currenari/spectrum-one)
 
 ---
 
-## Site
+### Nightdriver
 
-https://currenari.com
+<img src="img/nightdriver_theme_ad_new_01_1600.png" alt="Nightdriver" width="600">
+
+A Ghost theme built for long-form technical publishing. Three display modes (Day / Nightdriver / Night), 20 configurable settings in Ghost Admin, Snipcart commerce integration, local fonts, no external dependencies.
+
+Running in production at [currenari.com](https://currenari.com). Apache 2.0.
+
+→ [currenari/nightdriver-ghost-theme](https://github.com/currenari/nightdriver-ghost-theme)
+
+---
+
+[currenari.com](https://currenari.com) · [support@currenari.com](mailto:support@currenari.com)
