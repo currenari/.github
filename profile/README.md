@@ -8,7 +8,7 @@ I design open hardware, write the firmware, document the build process, and publ
 
 ### Spectrum One
 
-<img src="https://github.com/currenari/img/spectrum_one_1600.jpg" alt="Spectrum One" width="600">
+<img src="https://github.com/currenari/profile/img/spectrum_one_1600.jpg" alt="Spectrum One" width="600">
 
 A compact WiFi activity monitor built on ESP32. Scans nearby wireless signals and displays them live on a 16×2 LCD and 10-segment LED bar. One button. No app. No cloud.
 
