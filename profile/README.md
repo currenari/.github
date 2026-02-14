@@ -26,7 +26,8 @@ Includes KiCad schematics, PCB layout, Gerbers, ESP-IDF firmware source, and pre
 
 A Ghost theme built for long-form technical publishing. Three display modes (Day / Nightdriver / Night), 20 configurable settings in Ghost Admin, Snipcart commerce integration, local fonts, no external dependencies.
 
-Running in production at [currenari.com](https://currenari.com). 
+Running in production at [currenari.com](https://currenari.com)
+
 Licensed under Apache 2.0
 
 → [currenari/nightdriver-ghost-theme](https://github.com/currenari/nightdriver-ghost-theme)
