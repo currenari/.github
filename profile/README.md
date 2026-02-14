@@ -1,6 +1,6 @@
 # Currenari Lab
 
-Electronics, embedded firmware, and technical publishing. One-person lab based in the UK.
+Open source development and publishing lab.
 
 I design open hardware, write the firmware, document the build process, and publish the results — schematics, source, Gerbers, the lot. If I ship it, you get the files.
 
