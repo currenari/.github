@@ -1,6 +1,6 @@
 # Currenari Lab
 
-Open source development and publishing lab.
+Hand-built electronics and firmware — an open-source development and publishing lab.
 
 I design open hardware, write the firmware, document the build process, and publish the results — schematics, source, Gerbers, the lot. If I ship it, you get the files.
 
