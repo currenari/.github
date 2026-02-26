@@ -10,11 +10,9 @@ I design open hardware, write the firmware, document the build process, and publ
 
 <img src="https://github.com/currenari/.github/blob/main/profile/img/spectrum_one_1600.jpg" alt="Spectrum One" width="600">
 
-A compact WiFi activity monitor built on ESP32. Scans nearby wireless signals and displays them live on a 16×2 LCD and 10-segment LED bar. One button. No app. No cloud.
+A compact WiFi activity monitor built on ESP32. Scans nearby wireless signals and displays them live on a 16×2 LCD and 10-segment LED bar with one button.
 
 OSHWA certified open hardware — [UK000086](https://certification.oshwa.org/uk000086.html).
-
-Includes KiCad schematics, PCB layout, Gerbers, ESP-IDF firmware source, and pre-built binaries. The accompanying book — covering the full build from breadboard to certified PCB — is a [free download](https://currenari.com/spectrum-one/).
 
 → [currenari/spectrum-one](https://github.com/currenari/spectrum-one)
 
