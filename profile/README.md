@@ -20,17 +20,19 @@ Includes KiCad schematics, PCB layout, Gerbers, ESP-IDF firmware source, and pre
 
 ---
 
-### Nightdriver
+### Nightdriver (Archived)
 
 <img src="https://github.com/currenari/.github/blob/main/profile/img/nightdriver_theme_ad_new_01_1600.png" alt="Nightdriver" width="600">
 
-A Ghost theme built for long-form technical publishing. Three display modes (Day / Nightdriver / Night), 20 configurable settings in Ghost Admin, Snipcart commerce integration, local fonts, no external dependencies.
+A Ghost theme originally built for long-form technical publishing. Three display modes (Day / Nightdriver / Night), 20 configurable settings in Ghost Admin, Snipcart integration, local fonts, no external dependencies.
 
-Running in production at [currenari.com](https://currenari.com)
+**Status:** This project is no longer actively maintained.\
+I have moved away from Ghost Pro and no further updates or support are planned.
 
-Licensed under Apache 2.0
+The theme was previously sold commercially (£37) and is now released free of charge under the Apache 2.0 license.
 
-→ [currenari/nightdriver-ghost-theme](https://github.com/currenari/nightdriver-ghost-theme)
+You are free to use, modify, and redistribute it under the terms of the license.
+
 
 ---
 
