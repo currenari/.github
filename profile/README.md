@@ -1,10 +1,8 @@
 # Currenari Lab
 
-Midweek Current | Weekly tech mag + open hardware dev | Breakdowns: electronics, components, suppliers, trends & insights | Subscribe for the full current
-
 ---
 
-### Spectrum One
+### Spectrum One (Archived)
 
 <img src="https://github.com/currenari/.github/blob/main/profile/img/spectrum_one_1600.jpg" alt="Spectrum One" width="600">
 
