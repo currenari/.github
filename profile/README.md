@@ -10,7 +10,7 @@ A compact WiFi activity monitor built on ESP32. Scans nearby wireless signals an
 
 OSHWA certified open hardware: [UK000086](https://certification.oshwa.org/uk000086.html).
 
-Documentation & Book: [ESP32 WiFi Activity Monitor PDF](https://github.com/currenari/spectrum-one/blob/main/docs/ESP32%20WiFi%20Activity%20Monitor.pdf)
+Documentation & Book: [ESP32 WiFi Activity Monitor PDF (Download)](https://github.com/currenari/spectrum-one/raw/main/docs/ESP32%20WiFi%20Activity%20Monitor.pdf)
 
 Repository: [currenari/spectrum-one](https://github.com/currenari/spectrum-one)
 
