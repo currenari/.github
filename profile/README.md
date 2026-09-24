@@ -8,7 +8,7 @@ Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.co
 
 ## 1. Spectrum One (ESP32 WiFi Activity Monitor)
 
-**Spectrum One** is a standalone, compact wireless activity monitor built on the ESP32 platform. It scans ambient 2.4 GHz WiFi traffic in real time and displays packet density and signal activity on an integrated LCD and 10-segment LED bar graph with responsive single-button control.
+**Spectrum One** is a compact ESP32-based WiFi activity monitor that visualises nearby 2.4 GHz WiFi activity using a 16×2 LCD and a 10-segment LED bar. It runs repeated WiFi scans and displays live signal strength (RSSI) and network activity with single-button control.
 
 <img src="https://raw.githubusercontent.com/currenari/spectrum-one/main/img/spectrum_one_1600.jpg" alt="Spectrum One ESP32 Activity Monitor" width="680">
 
