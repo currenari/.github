@@ -1,12 +1,12 @@
-# Currenari — Open Hardware & Engineering Lab
+# Currenari — Open Hardware
 
-> Open-source hardware engineering, embedded systems, and laboratory instrumentation by Currenari.
+> Open-source hardware engineering, embedded systems, and laboratory instrumentation.
 
 Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.com](mailto:support@currenari.com)
 
 ---
 
-## 1. Spectrum One (ESP32 WiFi Activity Monitor)
+## Spectrum One (ESP32 WiFi Activity Monitor)
 
 **Spectrum One** is a compact ESP32-based WiFi activity monitor that visualises nearby 2.4 GHz WiFi activity using a 16×2 LCD and a 10-segment LED bar. It runs repeated WiFi scans and displays live signal strength (RSSI) and network activity with single-button control.
 
@@ -18,14 +18,6 @@ Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.co
 * **Display:** 1602 I2C LCD + 10-Segment Bargraph Display
 * **Documentation & Schematic Book:** [ESP32 WiFi Activity Monitor PDF (Full Guide)](https://github.com/currenari/spectrum-one/raw/main/docs/ESP32%20WiFi%20Activity%20Monitor.pdf)
 * **Source Repository:** [`currenari/spectrum-one`](https://github.com/currenari/spectrum-one)
-
----
-
-## 2. Audio Engineering & DSP Software
-
-For our official open-source **REAPER JSFX audio plugins** (`CURS-jsfx`), DSP algorithms, and music technology development, visit our dedicated audio organization:
-
-👉 **[@currenari-dev (Currenari Audio Lab)](https://github.com/currenari-dev)**
 
 ---
 
