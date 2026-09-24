@@ -2,7 +2,7 @@
 
 > Studio-grade audio DSP plugins, physical acoustic synthesis, and custom audio tooling by Currenari Sounds.
 
-Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.com](mailto:support@currenari.com) | Hardware & Electronics: [Currenari Lab](https://github.com/currenari-lab)
+Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.com](mailto:support@currenari.com)
 
 ---
 
@@ -46,16 +46,8 @@ https://raw.githubusercontent.com/currenari/CURS-jsfx/main/index.xml
 
 ---
 
-## 3. Open Hardware & Electronics Laboratory
-
-For open-source hardware, PCB schematics, and embedded devices (including the Spectrum One ESP32 Activity Monitor - OSHWA UK000086), visit our dedicated hardware laboratory:
-
-**[Currenari Lab on GitHub](https://github.com/currenari-lab)**
-
----
-
 ### License & Terms of Use
 
 All open-source JSFX audio plugins in `CURS-jsfx` are 100% free and royalty-free for private and commercial music production and sound design.
 
-(C) 2026 Currenari Sounds. All rights reserved.
+(C) 2026 Currenari Sounds.
