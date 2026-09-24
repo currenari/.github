@@ -16,7 +16,7 @@ Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.co
 * **OSHWA Certification:** [UK000086](https://certification.oshwa.org/uk000086.html)
 * **Architecture:** ESP32-WROOM-32 / Dual-Core 240 MHz
 * **Display:** 1602 I2C LCD + 10-Segment Bargraph Display
-* **Complete Build Guide & Book (PDF):** [ESP32 WiFi Activity Monitor Book (PDF)](https://raw.githubusercontent.com/currenari/spectrum-one/main/docs/ESP32%20WiFi%20Activity%20Monitor.pdf)
+* **Complete Build Guide & Book (PDF):** [ESP32 WiFi Activity Monitor Book (PDF)](https://github.com/currenari/spectrum-one/blob/main/docs/ESP32%20WiFi%20Activity%20Monitor.pdf)
 * **Source Repository:** [`currenari/spectrum-one`](https://github.com/currenari/spectrum-one)
 
 ---
