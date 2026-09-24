@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/currenari/CURS-jsfx/main/index.xml
 **Currenari One** is a standalone C++20 audio workstation and live performance engine, engineered specifically for cinematic dark ambient, neoclassical scoring, and UCS v8.2 sound library production. 
 
 * **Core Architecture:** Non-linear tape saturation, sub-harmonic undertone synthesis, 8-channel Feedback Delay Network (FDN) abyss acoustics, and physical felt piano modeling.
-* **Live Engine:** Low-latency ALSA / PipeWire streaming for Zoom field recorders and acoustic microphone improvisation.
+* **Live Engine:** Low-latency ALSA / PipeWire streaming for audio interfaces, studio microphones, and hardware MIDI controllers.
 * **Status:** Maintained strictly in private studio development, bench testing, and internal production.
 
 ---
