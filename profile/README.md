@@ -1,6 +1,6 @@
 # Currenari Sounds
 
-> Studio-grade audio DSP plugins, physical acoustic synthesis, and sovereign audio tooling by Currenari Sounds.
+> Studio-grade audio DSP plugins, physical acoustic synthesis, and custom audio tooling by Currenari Sounds.
 
 Website: [currenari.com](https://currenari.com) | Contact: [support@currenari.com](mailto:support@currenari.com) | Hardware & Electronics: [Currenari Lab](https://github.com/currenari-lab)
 
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/currenari/CURS-jsfx/main/index.xml
 
 ## 2. In Private R&D: Currenari One
 
-**Currenari One** is our flagship sovereign C++20 audio workstation and live performance engine, engineered specifically for cinematic dark ambient, neoclassical scoring, and UCS v8.2 sound library production. 
+**Currenari One** is a standalone C++20 audio workstation and live performance engine, engineered specifically for cinematic dark ambient, neoclassical scoring, and UCS v8.2 sound library production. 
 
 * **Core Architecture:** Non-linear tape saturation, sub-harmonic undertone synthesis, 8-channel Feedback Delay Network (FDN) abyss acoustics, and physical felt piano modeling.
 * **Live Engine:** Low-latency ALSA / PipeWire streaming for Zoom field recorders and acoustic microphone improvisation.
